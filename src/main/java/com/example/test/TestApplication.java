@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestApplication {
 
     public static void main(String[] args) {
-        // 主分支
+        // test分支
         SpringApplication.run(TestApplication.class, args);
     }
 
